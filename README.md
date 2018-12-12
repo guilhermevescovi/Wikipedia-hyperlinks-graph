@@ -18,6 +18,7 @@ Download sets of data
 [Wikicat hyperlink graph](https://drive.google.com/file/d/1ghPJ4g6XMCUDFQ2JPqAVveLyytG8gBfL/view?usp=sharing).  It is a reduced version of the one you find on SNAP. Every row is an edge, the two elements are the nodes (source and destination).
 
 From [this](https://snap.stanford.edu/data/wiki-topcats.html) page download:
+
 	-  `wiki-topcats-categories.txt.gz`
   
 	-  `wiki-topcats-page-names.txt.gz`
