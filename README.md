@@ -20,5 +20,4 @@ Download sets of data
 From [this](https://snap.stanford.edu/data/wiki-topcats.html) page download:
 
 	-  `wiki-topcats-categories.txt.gz`
-  
 	-  `wiki-topcats-page-names.txt.gz`
