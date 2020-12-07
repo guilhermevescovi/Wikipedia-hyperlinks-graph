@@ -1,6 +1,4 @@
 # Wikipedia-hyperlinks-graph
-### Algorithmic Methods for Data Mining - Homework 5
-##### Group #16 - Guilherme Nicchio, Joanna Broniarek, Melis Kaymaz
 ##### 
 
 Introduction
